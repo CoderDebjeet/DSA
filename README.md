@@ -32,7 +32,8 @@ To run the Java solutions, make sure you have Java Development Kit (JDK) install
 
    ```bash
    git clone https://github.com/CoderDebjeet/DSA.git
-📝 License
+## 📝 License 
+
 This repository is licensed under the MIT License. Check the LICENSE file for more details.
 
 📬 Contact

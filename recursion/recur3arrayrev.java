@@ -3,7 +3,7 @@ package corejava;
 //Online Java Compiler
 //Use this editor to write, compile and run your Java code online
 import java.util.*;
-class arrayrevrecur3 {
+class recur3arrayrev {
  public static void main(String[] args) {
      Scanner sc=new Scanner(System.in);
      System.out.println("Enter the size of an array:- ");

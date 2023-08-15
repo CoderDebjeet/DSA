@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Java
 
-Welcome to the **Data Structures and Algorithms in Java** repository! This repository contains a collection of common Data Structures and Algorithms questions along with their solutions implemented in Java.
+Welcome to the **Data Structures and Algorithms in Java** repository! This repository contains a collection of Data Structures and Algorithms questions along with their solutions implemented in Java.
 
 ## 📁 Folder Structure
 

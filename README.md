@@ -5,7 +5,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This repos
 ## 📁 Folder Structure
 
 ## The repository is organized as follows:
-📦 Data-Structures-and-Algorithms-in-Java
+'''📦 Data-Structures-and-Algorithms-in-Java
 ┣ 📂 Arrays
 ┃ ┣ 📜 ArrayRotation.java
 ┃ ┣ 📜 FindMissingNumber.java
@@ -18,7 +18,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This repos
 ┃ ┣ 📜 BinarySearchTree.java
 ┃ ┣ 📜 TreeTraversal.java
 ┃ ┗ ...
-┗ ...
+┗ ...'''
 
 Feel free to explore different folders and find the questions and solutions related to specific data structures and algorithms.
 

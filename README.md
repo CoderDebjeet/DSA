@@ -4,7 +4,7 @@ Welcome to the **Data Structures and Algorithms in Java** repository! This repos
 
 ## 📁 Folder Structure
 
-The repository is organized as follows:
+## The repository is organized as follows:
 📦 Data-Structures-and-Algorithms-in-Java
 ┣ 📂 Arrays
 ┃ ┣ 📜 ArrayRotation.java
@@ -36,7 +36,7 @@ To run the Java solutions, make sure you have Java Development Kit (JDK) install
 
 This repository is licensed under the MIT License. Check the LICENSE file for more details.
 
-📬 Contact
+## 📬 Contact
 If you have any questions or suggestions, feel free to contact me.
 
 Happy coding! 🚀🔥

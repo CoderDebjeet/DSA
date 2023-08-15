@@ -31,7 +31,7 @@ To run the Java solutions, make sure you have Java Development Kit (JDK) install
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Data-Structures-and-Algorithms-in-Java.git
+   git clone https://github.com/CoderDebjeet/DSA.git
 📝 License
 This repository is licensed under the MIT License. Check the LICENSE file for more details.
 
